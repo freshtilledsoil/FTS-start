@@ -1,0 +1,8 @@
+{
+  "name": "FTS-Start",
+  "description": "A Starter Set for FTS",
+  "dependencies": {
+    "FTS-Grunt": "*",
+    "FTS-Site": "*"
+  }
+}
